@@ -1,0 +1,8 @@
+# Ignore gradle folder
+.gradle
+
+# Ignore build folder
+/build/
+
+# Ignore tmp files
+*.tmp
