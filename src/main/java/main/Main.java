@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Mehuvarasto: " + mehua);
         System.out.println("Olutvarasto: " + olutta);
         System.out.println("duffman says oh yeah");
+        System.out.println("Oooh yeah");
 
 
     }
