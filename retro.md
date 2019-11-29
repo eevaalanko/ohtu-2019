@@ -5,7 +5,7 @@
 Tässä tekniikassa fasilitaattori (esim Scrum Master) kerää ym viiden eri kategorian tyyppisiä avoimia palautteita tiimiltä, 
 jotta suoritusta voidaan parantaa seuraavassa rupeamassa (Sprintissä).  Kategoriat ovat siis Aloita, 
 Lopeta, Jatka, Enemmän, Vähemmän. Kategoriat sijoitetaan esim viiteen osaan jaetulle taululle johon 
-tiimin jäsenet liimailevat sitten post-it- lappusiaan. Koko jutun voi toki hoitaa myös sanllisesti.
+tiimin jäsenet liimailevat sitten post-it- lappusiaan. Koko jutun voi toki hoitaa myös sanallisesti.
 
 #### Glad, Sad, Mad
 
